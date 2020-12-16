@@ -6,4 +6,4 @@ Content-Length: 101964
 Host: sber.ru:80
 User-Agent: Apache-HttpClient/4.5.7 (Java/11.0.8)
 
-POST http://sber.ru/api/send-sms?msisdn=79030000000&code=234323
+POST http://sber.ru/api/send-sms?msisdn=79035551221&code=234323
