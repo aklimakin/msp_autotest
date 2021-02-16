@@ -1,10 +1,9 @@
+Connection: keep-alive
+Authorization: Basic UlREOlJURA==
+Accept-Encoding: UTF-8
 Content-Type: application/json
+Content-Length: 101964
+Host: rzd.ru:80
+User-Agent: Apache-HttpClient/4.5.7 (Java/11.0.8)
 
-https://reqbin.com/echo/post/json
-
-{
-  "Id": 78912,
-  "Customer": "Jason Sweet",
-  "Quantity": 1,
-  "Price": 18.00
-}
+POST http://rzd.ru/api/send-sms?msisdn=79035551221&code=234323&
